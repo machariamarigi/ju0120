@@ -2,8 +2,10 @@
 
 .idea/
 .tscache/
+.cache/
 tmp/
 espowered/
+dist/
 
 node_modules/
 typings/
